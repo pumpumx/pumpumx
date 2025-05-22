@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pumpumx&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 <p align="center">
-  ![pumpumx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumpumx&theme=vue-dark&hide_border=true)
+  [![Naaz Github Stats](https://github-readme-stats.vercel.app/api?username=pumpumx)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
