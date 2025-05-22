@@ -39,15 +39,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pumpumx&show_icons=true&theme=tokyonight"  height="180px"/>
 </p>
 
-<div align="center">
-
-## 🔥 GitHub Streak
+<p align="center">
 
 [![pumpumx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumpumx&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
----
+</p>
 
 ### 📫 Connect With Me
 
