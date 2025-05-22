@@ -39,11 +39,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pumpumx&show_icons=true&theme=tokyonight"  height="180px"/>
 </p>
 
-<p align="center">
+<div align="center">
 
-[![pumpumx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumpumx&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
-</p>
+[![pumpumx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumpumx&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+</div>
 
 ### 📫 Connect With Me
 
