@@ -7,7 +7,7 @@
 🔐 Curious mind with a growing passion for Security Engineering, FullStackWebDev, DevOps.<br>
 🛠️ Tech-savvy with hands-on experience in both frontend and backend development.<br>
 📦 Love integrating modern tools and dev practices to streamline workflows and deliver quickly.<br>
-📚 Always learning, always improving — especially in cloud, automation, and secure infrastructure design.<br>
+📚 Always learning, always improving — especially in low level tech and secure infrastructure design.<br>
 
 ---
 
