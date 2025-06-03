@@ -1,4 +1,3 @@
-<h1 align="center">Hey there 👋, I'm Naaz Manhas</h1>
 
 <h1 align="center" style="font-family: 'Russo One', sans-serif;">
   "What I cannot create, I do not understand"
@@ -8,12 +7,6 @@
   - Richard Feynman
 </h4>
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
-  h1, h4 {
-    font-family: 'Russo One', sans-serif;
-  }
-</style>
 
 
 ---
