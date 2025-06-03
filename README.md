@@ -1,13 +1,20 @@
 <h1 align="center">Hey there 👋, I'm Naaz Manhas</h1>
 
- 🚀 About Me
+<h1 align="center" style="font-family: 'Russo One', sans-serif;">
+  "What I cannot create, I do not understand"
+</h1>
 
-💻 Passionate about building dynamic, performant, and user-friendly web applications.<br>
-🌐 Experienced in crafting robust RESTful APIs, real-time apps, and scalable systems.<br>
-🔐 Curious mind with a growing passion for Security Engineering, FullStackWebDev, DevOps.<br>
-🛠️ Tech-savvy with hands-on experience in both frontend and backend development.<br>
-📦 Love integrating modern tools and dev practices to streamline workflows and deliver quickly.<br>
-📚 Always learning, always improving — especially in low level tech and secure infrastructure design.<br>
+<h4 align="right" style="font-size: 12px; font-family: 'Russo One', sans-serif;">
+  - Richard Feynman
+</h4>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+  h1, h4 {
+    font-family: 'Russo One', sans-serif;
+  }
+</style>
+
 
 ---
 
