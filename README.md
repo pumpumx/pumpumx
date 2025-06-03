@@ -47,9 +47,3 @@
   <a href="mailto:trishuchibhot14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?logo=about-dot-me&logoColor=white&style=for-the-badge" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
