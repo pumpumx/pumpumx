@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST_API-FF6F00?logo=api&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
 </p>
 
 ---
