@@ -41,7 +41,6 @@
 </p>
 
 <div align="center">
-
 [![pumpumx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumpumx&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 </div>
 
