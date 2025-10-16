@@ -40,14 +40,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pumpumx&show_icons=true&theme=tokyonight" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pumpumx&theme=vue-dark&hide_border=true" alt="pumpumx's GitHub streak" />
-</p>
 ### 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/naazmanhas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:trishuchibhot14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:naazmanhas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
  <a href="https://arch-portfolio-three.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" />
 </a>
