@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-[![My Stats](https://github-readme-stats.vercel.app/api?username=pumpumx)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pumpumx)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ### 📫 Connect With Me
