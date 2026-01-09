@@ -36,8 +36,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-[![My Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pumpumx)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pumpumx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pumpumx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pumpumx&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+
 
 ### 📫 Connect With Me
 
