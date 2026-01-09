@@ -41,8 +41,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pumpumx&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://streak-stats.demolab.com?user=pumpumx&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 
